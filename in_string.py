@@ -5,3 +5,5 @@ def check_vowels():
     print("i" in name)
     print("o" in name)
     print("u" in name)
+
+check_vowels()
